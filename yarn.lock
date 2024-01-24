@@ -3948,10 +3948,10 @@
     web3-utils "^1.8.1"
     zksync-web3 "^0.14.3"
 
-"@safe-global/safe-deployments@1.28.0":
-  version "1.28.0"
-  resolved "https://registry.yarnpkg.com/@safe-global/safe-deployments/-/safe-deployments-1.28.0.tgz#9984b513999e5a1cd4449ed2c1ba9a66cb5b223c"
-  integrity sha512-zWn55unMucN3i3awjDA0XxH9BzGNHyC/qCbuISBh0GMZP/q+VCxERAOEO4OqwyGaxk6sSAzP4usGdmgz2y2svg==
+"@safe-global/safe-deployments@1.30.0":
+  version "1.30.0"
+  resolved "https://registry.yarnpkg.com/@safe-global/safe-deployments/-/safe-deployments-1.30.0.tgz#c0b0de6b304a044099f532b2c3ee587a686fd550"
+  integrity sha512-z721O3gsIOpzAu9nYo4fLx88Ql4CZdfO0Eh/F3eC8/pCOoAhJnhOEt+Q7rOyCSuzyt5LPgeV6F4UEIp6txEaKA==
   dependencies:
     semver "^7.3.7"
 
